@@ -1,0 +1,43 @@
+body {
+    background: #f7feff;
+    font-size: 16px;
+}
+
+.site-main {
+    padding: 50px 0;
+}
+
+address ul {
+    padding: 0;
+}
+
+address ul li {
+    list-style-type: none;
+    display: inline-block;
+    margin: 0 10px 0 0;
+}
+
+address ul li span{
+    font-weight: 600;
+}
+
+address ul li i{
+    color: #4c4a50;
+}
+
+h5 {
+    margin: 0 0 20px;
+}
+
+.resume-top {
+    margin: 0 0 30px;
+}
+
+.resume-row-block {
+    margin: 0 0 30px;
+}
+
+.resume-row-block h5 i {
+    margin: 0 10px 0 0;
+    color: #ab33dc;
+}
